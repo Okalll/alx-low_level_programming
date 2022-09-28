@@ -15,7 +15,7 @@ int helperFunction(int num, int i)
 		}
 		else
 		{
-			return (helperFunction(num, i+ 1));
+			return (helperFunction(num, i + 1));
 		}
 	}
 	else
@@ -34,7 +34,7 @@ int is_prime_number(int n)
 	{
 		return (0);
 	}
-	else 
+	else
 	{
 		return (helperFunction(n, 2));
 	}
