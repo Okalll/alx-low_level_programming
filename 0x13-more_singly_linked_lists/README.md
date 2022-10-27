@@ -34,3 +34,6 @@ Function that inserts a new node at a given position
 
 Task 10
 -Function that deletes the node at index of a listint_t linked list
+
+Task 11
+-Function that reverses a listint_t linked list
